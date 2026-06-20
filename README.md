@@ -44,3 +44,9 @@ Learning Software Development • Machine Learning • FPGA • Roblox Developme
 ### 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Taraka-Abhinav)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/Taraka-Abhinav/Taraka-Abhinav/output/github-contribution-grid-snake.svg)
