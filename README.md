@@ -47,6 +47,21 @@ Learning Software Development • Machine Learning • FPGA • Roblox Developme
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Activity</h2>
 
-![Snake](https://raw.githubusercontent.com/Taraka-Abhinav/Taraka-Abhinav/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Taraka-Abhinav/Taraka-Abhinav/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Taraka-Abhinav/Taraka-Abhinav/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution snake"
+      src="https://raw.githubusercontent.com/Taraka-Abhinav/Taraka-Abhinav/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
