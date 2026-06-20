@@ -86,14 +86,8 @@
 # 💻 Codeforces
 
 <p align="center">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_HANDLE"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Abhinav_1712"/>
 </p>
-
-Replace:
-
-YOUR_CODEFORCES_HANDLE
-
-with your actual Codeforces username.
 
 ---
 
