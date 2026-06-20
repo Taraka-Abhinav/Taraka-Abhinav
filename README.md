@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Taraka Abhinav</h1>
 
-<!--
-**Taraka-Abhinav/Taraka-Abhinav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Electrical Engineering Student at IIT Hyderabad
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Learning Software Development • Machine Learning • FPGA • Roblox Development
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Current Projects
+
+- 🌿 EcoStep Carbon Audit Platform
+- 🤖 Machine Learning Projects
+- 🎮 Roblox Game Development
+- ⚡ FPGA & Embedded Systems
+
+---
+
+### 🛠 Languages and Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,react,js,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Taraka-Abhinav&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Taraka-Abhinav&layout=compact)
+
+---
+
+### 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=Taraka-Abhinav)
+
+---
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Taraka-Abhinav)
